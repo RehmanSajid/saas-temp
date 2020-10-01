@@ -228,7 +228,7 @@ section {
 
 .banner {
   width: 100%;
-  background-image: url(../images/baner.jpg);
+  background-image: url(baner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   overflow: hidden;
@@ -412,7 +412,7 @@ section {
 
 .slider {
   width: 100%;
-  background-image: url(../images/back.jpg);
+  background-image: url(back.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
